@@ -7,5 +7,6 @@ public class Hora
         Date relogio = new Date();
         System.out.print("A hora é :");
         System.out.print(relogio.toString());
+
     }
 }
