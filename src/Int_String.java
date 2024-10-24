@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class int_string {
+public class Int_String {
 public static void main(String [] args) {
 
     /** Como fazer um int dentro de uma String.

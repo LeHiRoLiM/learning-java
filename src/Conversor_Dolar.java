@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class conversor_dolar
+public class Conversor_Dolar
 {
     public static void main(String[] args)
     {
