@@ -5,7 +5,7 @@ public class Switch_Condicao
     public static void main(String[] args)
     {
         System.out.println("+++++++++++++++++++++++++++++++++++++++++");
-        System.out.println("Vamos descobrir qual animal é esse !");
+        System.out.println("  Vamos descobrir qual animal é esse !   ");
         System.out.println("+++++++++++++++++++++++++++++++++++++++++");
         System.out.println("Quantas Pernas ?");
         Scanner a = new Scanner(System.in);
@@ -38,5 +38,4 @@ public class Switch_Condicao
         }
         System.out.print(tipo);
     }
-
 }
